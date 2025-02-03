@@ -1,5 +1,10 @@
 ## Hallo an alle 👋
 
+Ich spiele `für mein Leben gerne` **Fußball**
+
+Ich entwickle außerdem gerne
+
+![Fußball](https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=800)
 <!--
 **dannysahne94/dannysahne94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
