@@ -1,8 +1,21 @@
-## Hallo an alle 👋
+# Hallo an alle 👋
 
-Ich spiele `für mein Leben gerne` **Fußball**
+### Name: `Daniel Greßmann`
 
-Ich entwickle außerdem gerne
+### Wohnort: `Hamburg`
+
+### Beruf:   `Digital Media Manager`
+
+### Hobbys:
+
+Ich spiele für mein Leben gerne **Fußball**, Tischtennis, Schach und Mario Kart.
+
+| Skill | Level |
+| :--- | :---: |
+| English | Advanced |
+| Marketing | Advanced |
+| Entrepreneurship| Advanced |
+|Software Development | Basic |
 
 ![Fußball](https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=800)
 <!--
