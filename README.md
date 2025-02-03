@@ -7,7 +7,10 @@
 ### Beruf:   `Digital Media Manager`
 
 ### Hobbys:
-Ich spiele für mein Leben gerne **Fußball**, Tischtennis, Schach und Mario Kart.
+Ich spiele für mein Leben gerne **Fußball**,\
+Tischtennis, Schach und Mario Kart.
+
+---
 
 | **Skill** | **Level** |
 | :--- | :---: |
